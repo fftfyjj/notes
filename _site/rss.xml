@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Jekyll Bootstrap</title>
-        <description>Jekyll Bootstrap - Name Lastname</description>
-        <link>http://username.github.io</link>
-        <link>http://username.github.io</link>
-        <lastBuildDate>2013-12-19T19:03:53+08:00</lastBuildDate>
-        <pubDate>2013-12-19T19:03:53+08:00</pubDate>
+        <title>Notes of Reading</title>
+        <description>Notes of Reading - Yi Jinjin</description>
+        <link>http://fftfyjj.github.io/notes</link>
+        <link>http://fftfyjj.github.io/notes</link>
+        <lastBuildDate>2013-12-19T19:23:53+08:00</lastBuildDate>
+        <pubDate>2013-12-19T19:23:53+08:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -330,8 +330,8 @@ tags : [how-to, jekyll]
 &lt;h2 id=&#39;next_steps&#39;&gt;Next Steps&lt;/h2&gt;
 
 &lt;p&gt;Please take a look at &lt;a href=&#39;&#39; /&gt; or jump right into &lt;a href=&#39;&#39;&gt;Usage&lt;/a&gt; if you&amp;#8217;d like.&lt;/p&gt;</description>
-                <link>http://username.github.io/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>http://username.github.io/lessons/2011/12/29/jekyll-introduction</guid>
+                <link>http://fftfyjj.github.io/notes/lessons/2011/12/29/jekyll-introduction</link>
+                <guid>http://fftfyjj.github.io/notes/lessons/2011/12/29/jekyll-introduction</guid>
                 <pubDate>2011-12-29T00:00:00+08:00</pubDate>
         </item>
 
